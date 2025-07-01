@@ -1,2 +1,1 @@
-# programacaotvnatcl
-Programação TV Notícias Agrícolas - TCL
+[EPG_TV_NA _TCL.json](https://github.com/user-attachments/files/21006480/EPG_TV_NA._TCL.json)
